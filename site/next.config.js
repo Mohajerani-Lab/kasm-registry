@@ -4,7 +4,7 @@ const nextConfig = {
   env: {
     name: 'Mohajerani Lab',
     description: 'The store for workspaces used in Mohajerani Lab, CCBN, University of Lethbridge.',
-    icon: 'https://username.github.io/repositoryname/1.0/UofL_Logo_CMYK.svg',
+    icon: 'https://mohajerani-lab.github.io/kasm-registry/1.0/UofL_Logo_CMYK.svg',
     listUrl: 'https://mohajerani-lab.github.io/kasm-registry/',
     contactUrl: 'https://kasmweb.com/support',
   },
