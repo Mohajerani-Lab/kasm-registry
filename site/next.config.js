@@ -2,10 +2,10 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
+    name: 'Mohajerani Lab',
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://mohajerani-lab.github.io/kasm-registry/1.0/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
