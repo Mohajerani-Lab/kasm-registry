@@ -1,12 +1,12 @@
 {
-  "friendly_name": "Test",
+  "friendly_name": "DeepLabCut",
   "image_src": "DeepLabCut.png",
   "description": null,
   "name": "galiold/kasm-test:latest",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
-  "cpu_allocation_method": "Inherit",
+  "cpu_allocation_method": "Quotas",
   "docker_registry": "https://index.docker.io/v1/",
   "categories": [
     "Development"
