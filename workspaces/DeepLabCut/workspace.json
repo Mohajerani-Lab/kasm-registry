@@ -1,0 +1,20 @@
+{
+  "friendly_name": "DeepLabCut",
+  "image_src": "blob:https://registry.kasmweb.com/9e63c107-d13b-421c-85a0-bbaee3fd1122",
+  "description": null,
+  "name": "deeplabcut/deeplabcut:latest-gui-jupyter",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Development"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "amd64"
+  ]
+}
